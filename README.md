@@ -12,3 +12,8 @@ A session adapter that does nothing - designed for unit tests.
 App.Auth = Em.Auth.extend
   session: 'dummy'
 ```
+
+License
+=======
+
+MIT
